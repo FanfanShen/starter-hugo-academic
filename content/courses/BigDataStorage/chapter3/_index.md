@@ -9,7 +9,7 @@ linktitle: 第3章 索引
 summary: Blah, blah, blah...
 
 # Date page published
-date: 2024-04-08
+date: 2019-05-05
 
 # Book page type (do not modify).
 type: book
