@@ -111,7 +111,7 @@ sections:
       contact_links:
         - icon: weixin
           icon_pack: fab
-          name: WeChat Me
+          name: 微信：WeChat Me
           link: 'authors/admin/weixin.jpg'
         # Automatically link email and phone or display them just as text?
       autolink: true

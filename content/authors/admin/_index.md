@@ -22,7 +22,7 @@ organizations:
     url: https://xxgc.nau.edu.cn/2020/0611/c2614a65887/page.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include big data audit, artificial intelligence and computer system.
+bio: My research interests include artificial intelligence system and big data audit.
 
 # Interests to show in About widget d
 interests:
