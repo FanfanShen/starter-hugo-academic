@@ -1,53 +1,15 @@
 ---
-# Page title
-title: 《计算机操作系统》课程
-
-# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: 课程介绍
-
-# Page summary for search engines.
-summary: 操作系统是计算机系统的指挥中心，它既是系统中各种资源的管理者，又是服务的提供者。操作系统在计算机系统中所处的地位和作用决定本课程在计算机学科课程中特殊重要的核心位置。
-
-# Date page published
-date: 2018-09-09
-
+title: 2023年授课信息
+date: 2023-11-02
+math: true
 authors: ["admin"]
 author_notes: ["contributor"]
-
-# Book page type (do not modify).
-type: book
-
-# Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 1
+image:
+  placement: 2
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-## 一、课程介绍 
-
-《操作系统》课程是计算机考研408指定课程。操作系统是计算机系统的指挥中心，它既是系统中各种资源的管理者，又是服务的提供者。操作系统在计算机系统中所处的地位和作用决定本课程在计算机学科课程中特殊重要的核心位置。本课程主要讲授操作系统的基本概念、基本原理、设计方法和实现技术，包括：操作系统概述、进程线程与作业、中断与处理机调度、互斥同步、死锁、存储管理、输入输出系统、文件系统等内容。
-
-## 二、课程资源
-
-- updating：[2023年操作系统课件PPT](https://pan.baidu.com/s/1qzxmW44K8OcAsm8T1Fjbrg?pwd=cvix)，[配套练习题库](https://www.doc88.com/p-73247196945596.html)
-- 教材：计算机操作系统（慕课版），汤小丹 王红玲 姜华 汤子瀛编著，人民邮电出版社
-- 本书官方视频资源：[1.官方全书慕课视频(新书的封底有刮刮卡激活码)](https://www.rymooc.com/Course/show/714)，[2.B站官方教学视频王红玲主讲](https://www.bilibili.com/video/BV17h411B7yW/)
-- MIT神级OS课程，强烈推荐学习：[operating systems 6.828](https://pdos.csail.mit.edu/6.828/2023/index.html) 
-- 上海交通大学陈海波老师，华为操作系统首席科学家，专注操作系统研究，[IPADS实验室](https://ipads.se.sjtu.edu.cn/start)，教材与实验：[操作系统原理与实现](https://ipads.se.sjtu.edu.cn/ospi/)，建议自学完成实验部分
-- [Linux命令大全](http://www.runoob.com/linux/linux-command-manual.html)，著名的操作系统专家[Andrew S. Tanenbaum的个人网站](http://www.cs.vu.nl/~ast/)
-
-## 三、课程考核方式
-
-- 课堂表现和作业：20%
-
-- 期中测试：20%
-
-- 期末考试：60%
-
-## 四、教学计划
-- 上课信息：
-  - 1-17周，周三3-4节，10:20-11:50，文济楼208
-  - 1-16周双周，周四3-4节，10:20-11:50，文济楼109
-
-每章对应的PPT课件在这里，[2023年秋授课信息]({{< relref "./history/2024OS" >}})，[2023年秋课件PPT](https://pan.baidu.com/s/1qzxmW44K8OcAsm8T1Fjbrg?pwd=cvix)
+2023年授课信息：
 
 | Lesson Number |                             章节                             |                             内容                             |            备注             |
 | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------: |
