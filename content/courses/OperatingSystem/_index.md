@@ -27,7 +27,7 @@ weight: 1
 
 ## 二、课程资源
 
-- updating：[2023年操作系统课件PPT](https://pan.baidu.com/s/1qzxmW44K8OcAsm8T1Fjbrg?pwd=cvix)，[配套练习题库](https://www.doc88.com/p-73247196945596.html)
+- updating：[2024年操作系统课件PPT](https://pan.baidu.com/s/1NQcS8-zCk3bhDMN4lgdDiw?pwd=p21f)，[配套练习题库](https://www.doc88.com/p-73247196945596.html)
 - 教材：计算机操作系统（慕课版），汤小丹 王红玲 姜华 汤子瀛编著，人民邮电出版社
 - 本书官方视频资源：[1.官方全书慕课视频(新书的封底有刮刮卡激活码)](https://www.rymooc.com/Course/show/714)，[2.B站官方教学视频王红玲主讲](https://www.bilibili.com/video/BV17h411B7yW/)
 - MIT神级OS课程，强烈推荐学习：[operating systems 6.828](https://pdos.csail.mit.edu/6.828/2023/index.html) 
@@ -47,12 +47,14 @@ weight: 1
   - 1-17周，周三3-4节，10:20-11:50，文济楼208
   - 1-16周双周，周四3-4节，10:20-11:50，文济楼109
 
-每章对应的PPT课件在这里，[2023年秋授课信息]({{< relref "./history/2024OS" >}})，[2023年秋课件PPT](https://pan.baidu.com/s/1qzxmW44K8OcAsm8T1Fjbrg?pwd=cvix)
+[2023年秋授课信息]({{< relref "./history/2024OS" >}})，[2023年秋课件PPT](https://pan.baidu.com/s/1qzxmW44K8OcAsm8T1Fjbrg?pwd=cvix)
+
+2024年秋授课信息如下：
 
 | Lesson Number |                             章节                             |                             内容                             |            备注             |
 | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------: |
-|    1    | 第1章 操作系统引论1.1-1.5节 <br />[第1章思维导图](/courses/OperatingSystem/mindmap/chapter1.png) | 操作系统的目标和作用、操作系统的发展过程、操作系统的基本特性、操作系统的主要功能、操作系统的结构设计 |                             |
-|    2    | 第1章 操作系统引论1.6节1.7节<br />第2章 进程描述与控制 2.1-2.4节<br />[第2章思维导图](/courses/OperatingSystem/mindmap/chapter2.png) |                前趋图、进程的描述、控制、通信                |   第1章作业，课后1，2，25   |
+|    1    | 第1章 操作系统引论1.1-1.7节 <br />[第1章思维导图](/courses/OperatingSystem/mindmap/chapter1.png) | 操作系统的目标和作用、操作系统的发展过程、操作系统的基本特性、操作系统的主要功能、操作系统的结构设计 |        第1章作业，课后1，2，25                     |
+|    2    | 第2章 进程描述与控制 2.1-2.4节<br />[第2章思维导图](/courses/OperatingSystem/mindmap/chapter2.png) |                前趋图、进程的描述、控制、通信                |      |
 |    3    | 第2章 进程描述与控制 2.5-2.6节<br />第3章 处理机调度与死锁 3.1-3.2节<br />[第3章思维导图](/courses/OperatingSystem/mindmap/chapter3.png) |        线程的基本概念和实现，处理机调度概述，调度算法        |     第2章作业，1，2，21     |
 |    4    |               第3章 处理机调度与死锁 3.3-3.7节               |              实时调度，死锁，预防死锁，避免死锁              |                             |
 |    5    | 第3章 处理机调度与死锁 3.8节<br />第4章 进程同步 4.1-4.5节<br />[第4章思维导图](/courses/OperatingSystem/mindmap/chapter4.png) | 死锁的检测与解除，进程同步的基本概念，软件同步机制，硬件同步机制，信号量机制，管程机制 | 第3章作业，课后1，2，20，22 |
