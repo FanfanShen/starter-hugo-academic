@@ -21,8 +21,10 @@ publishDate: '2024-041-09T00:00:00Z'
 
 ## 一、指导学生情况
 
-- 2024年，研究生：刘海鹏，获得校优秀毕业生
-- 2024年，研究生：惠丽洁，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，投稿中
+- 2024年9月，研究生：惠丽洁，CKKS and Local Differential Privacy based Model Parameters Encryption for Personalized Federated Learning，The 6th International Conference on System Reliability and Safety Engineering
+- 2024年8月，研究生：梁琪玮，TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System，Computer Networks (CCF B, 中科院二区)
+- 2024年7月，研究生：惠丽洁，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，投稿中
+- 2024年6月，研究生：刘海鹏，获得校优秀毕业生，一等奖学金
 - 2024年4月，研究生：杨博帆获得2024年江苏省研究生实践创新计划项目，立项，资助1.5万元
 - 2024年4月，研究生：史林，BMSE: Blockchain-based multi-keyword searchable encryption for electronic medical records，Computer Standards & Interfaces(中科院2区)
 - 2023年7月，研究生：汤星译，基于iFA-LSTM的恶意行为检测方法，计算机工程与科学（北大核心录用），2024.1
@@ -35,6 +37,7 @@ publishDate: '2024-041-09T00:00:00Z'
 
 ---
 
+- 2024年，指导学生获得江苏省区块链优秀解决方案竞赛，省二等奖，黄译乐、陆雨嘉、朱士成、刘梦、邱文豪
 - 2023年，指导学生获得大学生创新创业训练计划项目，国家级，袁媛，颜敏杰，陶琴
 - 2023年，指导学生获得中国大学生服务外包创新创业大赛，省级三等奖2项
 - 2023年，指导学生获得蓝桥杯省二等奖
@@ -50,7 +53,10 @@ publishDate: '2024-041-09T00:00:00Z'
 
 ## 三、指导的本科生(毕业生)
 
-- **2024届**：缪浩然（无锡海隆），秦子恒（中科创达），唐一宸（雄安联通），汤觉淇（江苏海隆软件），
-- **2023届**：常旭（南京公务员），周瑾（SHEIN），叶国绪（简睿捷软件），曹晨洋，陈一祺，索朗扎巴，陈燚（西南大学读研），陈健（南审读研），任翔宇（南审读研），杨聪（东华大学读研）
-- **2022届**：叶风云（南京毕马威服务中心，优秀毕业论文），刘宇（风云再起），沈金泽（中国科学技术大学读研），张晓宇（博泰车联网），夏锐禹（北京工业大学读研，优秀毕业论文），唐钦（东北大学读研），章江林(南京国睿信维) 
-- **2021届**：刘浩，陈霖
+- 研究生：
+  - **2024届**：史林（维邦软件），刘海鹏（公务员），汤星译（长电科技）
+- 本科生：
+  - **2024届**：缪浩然（无锡海隆），秦子恒（中科创达），唐一宸（雄安联通），汤觉淇（江苏海隆软件）
+  - **2023届**：常旭（南京公务员），周瑾（SHEIN），叶国绪（简睿捷软件），曹晨洋，陈一祺，索朗扎巴，陈燚（西南大学读研），陈健（南审读研），任翔宇（南审读研），杨聪（东华大学读研）
+  - **2022届**：叶风云（南京毕马威服务中心，优秀毕业论文），刘宇（风云再起），沈金泽（中国科学技术大学读研），张晓宇（博泰车联网），夏锐禹（北京工业大学读研，优秀毕业论文），唐钦（东北大学读研），章江林(南京国睿信维) 
+  - **2021届**：刘浩，陈霖
