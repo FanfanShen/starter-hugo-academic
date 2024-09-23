@@ -56,4 +56,5 @@ weight: 1
 |    1    | 第1章 操作系统引论1.1-1.7节 <br />[第1章思维导图](/courses/OperatingSystem/mindmap/chapter1.png) | 操作系统的目标和作用、操作系统的发展过程、操作系统的基本特性、操作系统的主要功能、操作系统的结构设计 |        第1章作业，课后1，2，25                     |
 |    2    | 第2章 进程描述与控制 2.1-2.3，2.4-2.6<br />[第2章思维导图](/courses/OperatingSystem/mindmap/chapter2.png) |      前趋图、进程的描述、控制、通信、线程、讲解作业 <br /> <font color="blue">学生讲解内容：</font>程序并发执行P5-7、进程控制P24-28、线程的实现P45-51               |   第2章作业，1，2，21   |
 |    3    | 第3章 处理机调度与死锁3.1-3.2<br />[第3章思维导图](/courses/OperatingSystem/mindmap/chapter3.png) |          处理机调度概述，调度算法<br /> <font color="blue">学生讲解内容：</font>评价指标P11、优先级调度算法P21-24， 高响应比优先调度P25         |       |
+|    4    | 第3章 处理机调度与死锁3.3-3.6，3.7-3.8<br />[第3章思维导图](/courses/OperatingSystem/mindmap/chapter3.png) |          实时调度、死锁、预防死锁、避免死锁、死锁的检测与解除 <br /> <font color="blue">学生讲解内容：</font>抢占式EDF例子P41、最低松弛度优先LLF算法P42-44， 产生死锁的必要条件及处理方法P55-57、死锁预防方法P59-60；银行家算法P66-69、银行家算法例子P70-72、例子续P73-74、死锁检测算法P86-87       |  第3章作业，课后1，2，20，22     |
 
