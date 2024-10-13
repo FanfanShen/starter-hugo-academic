@@ -21,7 +21,6 @@ role: 博士，副教授，硕士生导师
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-<<<<<<< HEAD
   - name: 南京审计大学，计算机学院
     url: https://xxgc.nau.edu.cn/2020/0611/c2614a65887/page.htm
 
