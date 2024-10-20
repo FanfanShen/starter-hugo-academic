@@ -1,10 +1,9 @@
-# wowchemy academic theme build method
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic) , New name as: [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)
-
-使用方法主要参考：https://university.wowchemy.com/getting-started/
-
+# Wowchemy academic theme [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)  is upgraded to [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)
+- Our theme is also upgraded to theme-academic-cv on 2024.10.13 at commit 739ece0b54dbe86962aef0da5a03cab1f580b2a1
+- 使用方法主要参考：https://docs.hugoblox.com/
 
 ------------------------------------------------------------
+
 ### 1.在电脑本地端，使用操作方法：
 - 文档写作流程：
 1.重点关注config、content目录；

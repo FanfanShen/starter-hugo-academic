@@ -1,29 +1,57 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: ""
 date: 2022-10-24
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "6rem"
+
 sections:
-  - block: about.biography
-    id: about
+  - block: resume-biography-3
     content:
-      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      # button:
+      #  text: Download CV
+      #  url: /             # uploads/resume.pdf
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        - Artificial Intelligence System
 
+        - Bigdata Audit
+    design:
+      columns: '1'
   - block: collection
     id: news
     content:
       title: Recent News
       subtitle: ''
       text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: news
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
-        folders:
-          - news
         author: ""
         category: ""
         tag: ""
@@ -37,95 +65,42 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
-      columns: '2'
-
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: publications
     content:
-      title: Selected Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Recent Publications
+      text: ""
       filters:
         folders:
-          - publication
-        exclude_featured: true
+          - publications
+        exclude_featured: false
     design:
-      columns: '2'
       view: citation
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Research
-          tag: Research
-        - name: Teaching
-          tag: Teaching
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      view: Compact
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
- 
   - block: collection
     id: students
     content:
-      title: students
+      title: 指导学生情况
       filters:
         folders:
           - students
     design:
-      columns: '2'
-      view: compact
-
-  - block: contact
-    id: contact
+      view: article-grid
+      columns: 1
+  - block: markdown
+    id: contact 
     content:
-      title: 如果您对边缘智能和人工智能研究感兴趣，欢迎随时与我联系！快捷发送邮件的方式如下：
+      title: 'Contact'
       subtitle: ''
-      text: ''
-      # Contact details - edit or remove options as needed
-      email: 邮箱：ffshen AT nau DOT edu DOT cn （将AT替换为“@”，将DOT替换为点“.”） 
-      address:
-        street: 地址：江苏省
-        city: 南京市
-        region: 浦口区江浦街道雨山西路86号致明楼222办公室
-      office_hours:
-        - '工作时间：周一至周五 09:00 to 17:00'
-      contact_links:
-        - icon: weixin
-          icon_pack: fab
-          name: 微信：WeChat Me
-          link: 'authors/admin/weixin.jpg'
-        # Automatically link email and phone or display them just as text?
-      autolink: true
-      # Choose an email form provider (netlify/formspree)
-      form:
-        provider: formspree
-        formspree:
-          # If using Formspree, enter your Formspree form ID
-          id: 'xleyzoew'
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      text: |-
+        如果您对我们的工作内容感兴趣或想加入我们，欢迎随时与我取得联系！ 具体信息如下：
+        - **邮箱：** ffshen AT nau DOT edu DOT cn （将AT替换为“@”，将DOT替换为点“.”）
+        - **微信号：** WaldenLakewood
+        - **地址：** 江苏省南京市浦口区南京审计大学致明楼222办公室
+        - **工作时间：** 周一至周五 09:00 至 17:00
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-
 ---

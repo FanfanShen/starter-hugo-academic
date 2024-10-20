@@ -12,7 +12,7 @@ summary: Blah, blah, blah...
 date: 2025-11-11
 
 # Book page type (do not modify).
-type: book
+type: docs
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 10
