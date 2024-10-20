@@ -12,7 +12,7 @@ summary: Blah, blah, blah...
 date: 2024-04-08
 
 # Book page type (do not modify).
-type: book
+type: docs
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 3
@@ -27,5 +27,5 @@ weight: 3
 * 索引通常能够极大的提高查询的效率
 * 索引的建立要花费系统时间，索引文件也会占用磁盘空间
     比如：书的目录、序号、学号等
-      	
+    
 * MongoDB索引的数据结构是B+树

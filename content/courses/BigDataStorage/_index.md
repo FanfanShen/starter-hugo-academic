@@ -7,7 +7,7 @@ authors: ["admin"]
 author_notes: ["contributor"]
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: 课程介绍
+linktitle: 大数据存储技术
 
 # Page summary for search engines.
 summary: 本课程是数据科学与大数据技术专业学生必须学习和掌握的基础课程，是一门理论与实践相结合的专业主干课。注重培养学生的自主学习和动手操作能力。大数据存储技术是海量数据存储的基础和支撑，它采用分布式计算架构方式，对海量数据提供数据存储和业务访问功能。
@@ -16,10 +16,10 @@ summary: 本课程是数据科学与大数据技术专业学生必须学习和�
 date: 2018-09-09
 
 # Book page type (do not modify).
-type: book
+type: docs
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 1
+weight: 2
 ---
 
 ## 一、课程介绍 

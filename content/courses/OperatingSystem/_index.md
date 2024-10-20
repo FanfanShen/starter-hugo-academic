@@ -1,23 +1,16 @@
 ---
-# Page title
-title: 《计算机操作系统》课程
-
-# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: 课程介绍
-
-# Page summary for search engines.
+title: 计算机操作系统
 summary: 操作系统是计算机系统的指挥中心，它既是系统中各种资源的管理者，又是服务的提供者。操作系统在计算机系统中所处的地位和作用决定本课程在计算机学科课程中特殊重要的核心位置。
-
-# Date page published
-date: 2018-09-09
+date: 2024-10-19
+type: docs
+math: false
+tags:
+  - OS
+image:
+  caption: 'Embed rich media such as videos and LaTeX math'
 
 authors: ["admin"]
 author_notes: ["contributor"]
-
-# Book page type (do not modify).
-type: book
-
-# Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---
 
@@ -47,7 +40,7 @@ weight: 1
   - 1-17周，周三3-4节，10:20-11:50，文济楼208
   - 1-16周双周，周四3-4节，10:20-11:50，文济楼109
 
-[2023年秋授课信息]({{< relref "./history/2024OS" >}})，[2023年秋课件PPT](https://pan.baidu.com/s/1qzxmW44K8OcAsm8T1Fjbrg?pwd=cvix)
+[2023年秋课件PPT](https://pan.baidu.com/s/1qzxmW44K8OcAsm8T1Fjbrg?pwd=cvix)
 
 [2024年秋课件PPT](https://pan.baidu.com/s/1NQcS8-zCk3bhDMN4lgdDiw?pwd=p21f), 授课形式：翻转课堂，2024年秋授课信息如下：
 
@@ -56,7 +49,7 @@ weight: 1
 |    1    | 第1章 操作系统引论1.1-1.7节 <br />[第1章思维导图](/courses/OperatingSystem/mindmap/chapter1.png) | 操作系统的目标和作用、操作系统的发展过程、操作系统的基本特性、操作系统的主要功能、操作系统的结构设计 |        第1章作业，课后1，2，25                     |
 |    2    | 第2章 进程描述与控制 2.1-2.3，2.4-2.6（2次课）<br />[第2章思维导图](/courses/OperatingSystem/mindmap/chapter2.png) |      前趋图、进程的描述、控制、通信、线程、讲解作业 <br /> <font color="blue">提前预习内容：</font>程序并发执行P5-7、进程控制P24-28、线程的实现P45-51               |   第2章作业，1，2，21   |
 |    3    | 第3章 处理机调度与死锁3.1-3.2<br />[第3章思维导图](/courses/OperatingSystem/mindmap/chapter3.png) |          处理机调度概述，调度算法<br /> <font color="blue">提前预习内容：</font>评价指标P11、优先级调度算法P21-24， 高响应比优先调度P25         |       |
-|    4    | 第3章 处理机调度与死锁3.3-3.6，3.7-3.8（2次课）<br />[第3章思维导图](/courses/OperatingSystem/mindmap/chapter3.png) |          实时调度、死锁、预防死锁、避免死锁、死锁的检测与解除 <br /> <font color="blue">提前预习内容：</font>抢占式EDF例子P41、最低松弛度优先LLF算法P42-44， 产生死锁的必要条件及处理方法P55-57、死锁预防方法P59-60；银行家算法P66-69、银行家算法例子P70-72、例子续P73-74、死锁检测算法P86-87       |  第3章作业，课后1，2，20，22     |
+|    4    | 第3章 处理机调度与死锁3.3-3.6，3.7-3.8（2次课）<br />[第3章思维导图](/courses/OperatingSystem/mindmap/chapter3.png) |          实时调度、死锁、预防死锁、避免死锁、死锁的检测与解除 <br /> <font color="blue">提前预习内容：</font> <br />1.抢占式EDF例子P41、最低松弛度优先LLF算法P42-44， 产生死锁的必要条件及处理方法P55-57、死锁预防方法P59-60；<br />2.银行家算法P66-69、银行家算法例子P70-72、例子续P73-74、死锁检测算法P86-87       |  第3章作业，课后1，2，20，22     |
 |    5    | gap |                 |      |
-|    6    | 第4章 进程同步4.1-4.4；4.5-4.7（2次课） |  进程同步的基本概念，软件同步机制，硬件同步机制，信号量机制；管程机制、经典进程的同步问题、Linux进程同步机制  <br /> <font color="blue">提前预习内容：</font>机器语言P9-10，整型信号量P22，记录型信号量P23-24，利用信号量实现前趋关系P30；生产者消费者解决方法P49-50，哲学家进餐记录型信号量P56，读者写着问题P63-64，信号量操作讨论P71             |      |
-
+|    6    | 第4章 进程同步4.1-4.4；4.5-4.7（2次课） |  进程同步的基本概念，软件同步机制，硬件同步机制，信号量机制；管程机制、经典进程的同步问题、Linux进程同步机制  <br /> <font color="blue">提前预习内容：</font> <br />1.机器语言P9-10，整型信号量P22，记录型信号量P23-24，利用信号量实现前趋关系P30；<br />2.生产者消费者解决方法P49-50，哲学家进餐记录型信号量P56，读者写着问题P63-64，信号量操作讨论P71             |      |
+|    7    | 第5章 存储器管理5.1-5.3；5.4-5.5;5.6-5.7（3次课） |  存储器的层次结构，程序的装入和链接,对换与覆盖；连续分配存储管理方式、分页存储管理方式;分段存储管理方式、IA-32/x86-64内存管理  <br /> <font color="blue">提前预习内容：</font> <br />1.第3章作业，程序的装入P12-13，程序对换P19-21；<br />2.         |      |

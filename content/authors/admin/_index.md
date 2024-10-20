@@ -2,6 +2,9 @@
 # Display name
 title: 沈凡凡
 
+# Name pronunciation (optional)
+#name_pronunciation: Chien Shiung Wu
+
 # Full name (for SEO)
 first_name: 凡凡
 last_name: 沈
@@ -13,13 +16,10 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
 role: 博士，副教授，硕士生导师
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to show in About widget
 organizations:
   - name: 南京审计大学，计算机学院
     url: https://xxgc.nau.edu.cn/2020/0611/c2614a65887/page.htm
@@ -30,32 +30,27 @@ profiles:
   - icon: envelope
     url: /#contact
     label: 给我发邮件吧！
-  - icon: weixin
-    icon_pack: fab
-    url: authors/admin/weixin.jpg
+  - icon: brands/weixin
+    url: author/沈凡凡/weixin.jpg
     label: 加我微信吧！
-    display:
-      header: true
-  - icon: blog
-    icon_pack: fas
+  - icon: academicons/ads
     url: https://blog.csdn.net/fandroid?type=blog
-  - icon: github
-    icon_pack: fab
-    url: https://github.com/fanfanshen
-
+    label: 看看我的博客吧！
+  - icon: brands/github
+    url: https://github.com/fanfanshen 
+    label: Follow me！
 
 interests:
   - 人工智能系统：边缘智能、机器学习、深度学习、联邦学习、模型压缩、隐私保护
   - 大数据审计：数据分析、信息检索
+
 education:
-  courses:
-    - area: 计算机学院副教授
-      institution: 南京审计大学，2020-至今
-      year: 
-    - area: 计算机学院讲师
-      institution: 南京审计大学，2017-2020
-    - area: 计算机软件与理论，博士
-      institution: 武汉大学，2013-2017
+  - area: 计算机学院副教授
+    institution: 南京审计大学，2020-至今
+  - area: 计算机学院讲师
+    institution: 南京审计大学，2017-2020
+  - area: 计算机软件与理论，博士
+    institution: 武汉大学，2013-2017
 ---
 
 ## 个人简介
