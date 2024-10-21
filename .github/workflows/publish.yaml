@@ -48,28 +48,16 @@ jobs:
       with:
         token: ${{ secrets.HUGO_TOKEN }}
         enablement: true
-    - name: Build with Hugo
-      env:
-        HUGO_ENVIRONMENT: production
+    - name: Build with hugo
       run: |
-        echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-    - name: Generate Pagefind search index
-      run: npx pagefind --site "public"
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2
-      with:
-        path: ./public
+        hugo -F --cleanDestinationDir  # 生成静态文件
 
-  # Deploy website to GitHub Pages hosting
-  deploy:
-    if: github.repository_owner != 'HugoBlox'
-    environment:
-      name: github-pages
-      url: https://fanfanshen.github.io/ # ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
     - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v2
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.HUGO_TOKEN }} # secret 中设置好私钥
+        external_repository: FanfanShen/fanfanshen.github.io  # Page 仓库
+        publish_branch: master  # Page 仓库的分支
+        publish_dir: ./public                 # 服务器上生成的静态网页源路径
+        destination_dir: ./   # 发布到fanfanshen.github.io仓库的位置路径
+        commit_message: ${{ github.event.head_commit.message }}
