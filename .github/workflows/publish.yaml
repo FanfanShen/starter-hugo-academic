@@ -51,6 +51,8 @@ jobs:
     - name: Build with hugo
       run: |
         hugo -F --cleanDestinationDir  # 生成静态文件
+    - name: Generate Pagefind search index
+      run: npx pagefind --site "public"
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
