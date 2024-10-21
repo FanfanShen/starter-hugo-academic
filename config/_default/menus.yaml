@@ -24,11 +24,11 @@ main:
     weight: 15
   - name: OperatingSystem
     parent: Courses
-    url: courses/OperatingSystem
+    url: courses/operatingsystem
     weight: 10  
   - name: BigDataStorage
     parent: Courses
-    url: courses/BigDataStorage
+    url: courses/bigdatastorage
     weight: 11
   - name: Library
     url: library/
