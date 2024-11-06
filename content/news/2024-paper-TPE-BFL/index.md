@@ -8,4 +8,4 @@ image:
   placement: 2
   caption: ''
 ---
-论文链接：[TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System](https://authors.elsevier.com/a/1ja6C4xsUsBc1l)
+论文链接：[TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System](https://www.sciencedirect.com/science/article/abs/pii/S1389128624005231)
