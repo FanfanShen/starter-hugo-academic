@@ -1,16 +1,11 @@
 ---
 title: 学生情况
 summary: 历年指导的研究生、本科生成果情况，毕业情况等。
-
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-10-15T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2024-04-09T00:00:00Z'
+date: 2024-11-08
+authors:
+  - admin
+tags:
+  - 学生
 
 ---
 
@@ -20,23 +15,25 @@ publishDate: '2024-04-09T00:00:00Z'
 {{% /callout %}}
 
 ## 一、指导学生情况
-
-- 2024年9月，研究生：惠丽洁，CKKS and Local Differential Privacy based Model Parameters Encryption for Personalized Federated Learning，The 6th International Conference on System Reliability and Safety Engineering
-- 2024年8月，研究生：梁琪玮，TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System，Computer Networks (CCF B, 中科院二区)
-- 2024年7月，研究生：惠丽洁，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，投稿中
-- 2024年6月，研究生：刘海鹏，获得校优秀毕业生，一等奖学金
-- 2024年4月，研究生：杨博帆获得2024年江苏省研究生实践创新计划项目，立项，资助1.5万元
-- 2024年4月，研究生：史林，BMSE: Blockchain-based multi-keyword searchable encryption for electronic medical records，Computer Standards & Interfaces(中科院2区)
-- 2023年7月，研究生：汤星译，基于iFA-LSTM的恶意行为检测方法，计算机工程与科学（北大核心录用），2024.1
-- 2023年6月，研究生：汤星译获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
-- 2023年6月，研究生：刘海鹏获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
-- 2023年3月，研究生：刘海鹏，基于AHP的多特征融合图像质量评价算法，计算机仿真（北大核心录用），appear in 2024
-- 2023年4月，研究生：杨博帆，基于深度强化学习的无人机矿井自主巡航研究，武汉大学学报（北大核心），2023.4(优秀论文)
-- 2022年6月，本科生：夏锐禹，校优秀本科生毕业设计，目前为北京工业大学硕士生
-- 2022年3月，研究生：史林，2022年度江苏省研究生科研与实践创新计划项目，立项，1.5万元
+- 2024年11月，研究生，杨博帆，发表论文，TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system，CCF B, 中科院二区
+- 2024年9月，研究生，惠丽洁，发表论文，CKKS and Local Differential Privacy based Model Parameters Encryption for Personalized Federated Learning，The 6th International Conference on System Reliability and Safety Engineering
+- 2024年8月，研究生，梁琪玮，发表论文，TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System，Computer Networks，CCF B, 中科院二区
+- 2024年7月，研究生，惠丽洁，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，投稿中
+- 2024年6月，研究生，刘海鹏，获得校优秀毕业生，一等奖学金
+- 2024年4月，研究生，杨博帆，获得2024年江苏省研究生实践创新计划项目，立项，资助1.5万元
+- 2024年4月，研究生，史林，发表论文，BMSE: Blockchain-based multi-keyword searchable encryption for electronic medical records，Computer Standards & Interfaces，中科院2区
+- 2023年11月，研究生，杨博帆，获得一等奖学金
+- 2023年7月，研究生，汤星译，发表论文，基于iFA-LSTM的恶意行为检测方法，计算机工程与科学，北大核心
+- 2023年6月，研究生，汤星译，获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
+- 2023年6月，研究生，刘海鹏，获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
+- 2023年3月，研究生，刘海鹏，发表论文，基于AHP的多特征融合图像质量评价算法，计算机仿真，北大核心
+- 2023年4月，研究生，杨博帆，基于深度强化学习的无人机矿井自主巡航研究，武汉大学学报，北大核心，获评优秀论文
+- 2022年6月，本科生，夏锐禹，校优秀本科生毕业设计，目前为北京工业大学硕士生
+- 2022年3月，研究生，史林，2022年度江苏省研究生科研与实践创新计划项目，立项，1.5万元
 
 ---
 
+- 2024年，指导学生获得iCAN大学生创新创业大赛，省二等奖，孙铭泽、吕嘉宁、陈征、刘可儿、王巾嘉
 - 2024年，指导学生获得江苏省区块链优秀解决方案竞赛，省二等奖，黄译乐、陆雨嘉、朱士成、刘梦、邱文豪
 - 2023年，指导学生获得大学生创新创业训练计划项目，国家级，已结项，袁媛，颜敏杰，陶琴
 - 2023年，指导学生获得中国大学生服务外包创新创业大赛，省级三等奖2项
