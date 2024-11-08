@@ -5,5 +5,6 @@ authors:
   - admin
 tags:
   - 论文
+  - 学生
 ---
 论文链接：[TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system](https://www.sciencedirect.com/science/article/abs/pii/S138912862400714X)
