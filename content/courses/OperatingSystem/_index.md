@@ -2,15 +2,14 @@
 title: 计算机操作系统
 summary: 操作系统是计算机系统的指挥中心，它既是系统中各种资源的管理者，又是服务的提供者。操作系统在计算机系统中所处的地位和作用决定本课程在计算机学科课程中特殊重要的核心位置。
 date: 2024-10-29
+authors:
+  - admin
 type: docs
 math: false
 tags:
+  - 课程
   - OS
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
 
-authors: ["admin"]
-author_notes: ["contributor"]
 weight: 1
 ---
 

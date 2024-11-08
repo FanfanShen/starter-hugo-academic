@@ -6,6 +6,7 @@ authors:
   - admin
 tags:
   - 学生
+  - 论文
 
 ---
 
