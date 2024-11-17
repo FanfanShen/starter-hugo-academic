@@ -1,13 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Statistical Behavior Guided Block Allocation in Hybrid Cache Based Edge Computing for Cyber-Physical-Social Systems"
-authors: [Fanfan Shen, Chao Xu and Jun Zhang,]
-date: 2020-02-08T18:11:50+08:00
+title: "BMSE:Blockchain-based multi-keyword searchable encryption for electronic medical records"
+authors: 
+- Fanfan Shen, 
+- Lin Shi
+- Chao Xu
+- Jun Zhang
+- Yong Chen
+- Yanxiang He
+date: 2024-04-08T18:00:43+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-08T18:11:50+08:00
+publishDate: 2024-04-08T18:00:43+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +22,7 @@ publishDate: 2023-10-08T18:11:50+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "in IEEE Access, vol. 8, pp. 29055-29063, 2020.2"
+publication: "Computer Standards & Interfaces,Volume 89,2024,103824"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +42,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0920548923001058
 url_code:
 url_dataset:
 url_poster:
