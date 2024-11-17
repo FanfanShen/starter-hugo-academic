@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "BMSE:Blockchain-based multi-keyword searchable encryption for electronic medical records"
+title: "TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System"
 authors: 
 - Fanfan Shen
-- Lin Shi
+- Bofan Yang
 - Jun Zhang
 - Chao Xu
 - Yong Chen
 - Yanxiang He
-date: 2024-04-08T18:00:43+08:00
+date: 2024-11-17T18:00:43+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-04-08T18:00:43+08:00
+publishDate: 2024-12-01T18:00:43+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publishDate: 2024-04-08T18:00:43+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computer Standards & Interfaces,Volume 89,2024,103824"
+publication: "Computer Networks,Volume 255,2024,110882"
 publication_short: ""
 
 abstract: ""
@@ -42,7 +42,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0920548923001058
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S138912862400714X
 url_code:
 url_dataset:
 url_poster:

@@ -1,28 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "BMSE:Blockchain-based multi-keyword searchable encryption for electronic medical records"
+title: "Please refer to the following link for the full list of publications"
 authors: 
-- Fanfan Shen
-- Lin Shi
-- Jun Zhang
-- Chao Xu
-- Yong Chen
-- Yanxiang He
-date: 2024-04-08T18:00:43+08:00
+- admin
+date: 2024-10-08T18:00:43+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-04-08T18:00:43+08:00
+publishDate: 2024-10-01T18:00:43+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computer Standards & Interfaces,Volume 89,2024,103824"
+publication: ""
 publication_short: ""
 
 abstract: ""
@@ -42,7 +37,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0920548923001058
+links:
+- name: Full list publications
+  url: https://dblp.org/pid/205/7811.html
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
