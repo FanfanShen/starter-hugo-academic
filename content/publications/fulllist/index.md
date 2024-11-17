@@ -4,11 +4,11 @@
 title: "Please refer to the following link for the full list of publications"
 authors: 
 - admin
-date: 2024-10-08T18:00:43+08:00
+date: 2024-11-17T18:00:43+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-10-01T18:00:43+08:00
+publishDate: 2024-11-17T18:00:43+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -71,3 +71,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+Please refer to the following link: [full list of publications](https://dblp.org/pid/205/7811.html)
