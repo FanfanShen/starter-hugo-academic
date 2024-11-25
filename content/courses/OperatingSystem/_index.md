@@ -24,6 +24,7 @@ weight: 1
 - 本书官方视频资源：[1.官方全书慕课视频(新书的封底有刮刮卡激活码)](https://www.rymooc.com/Course/show/714)，[2.B站官方教学视频王红玲主讲](https://www.bilibili.com/video/BV17h411B7yW/)
 - MIT神级OS课程，强烈推荐学习：[operating systems 6.828](https://pdos.csail.mit.edu/6.828/2023/index.html) 
 - 上海交通大学陈海波老师，华为操作系统首席科学家，专注操作系统研究，[IPADS实验室](https://ipads.se.sjtu.edu.cn/start)，教材与实验：[操作系统原理与实现](https://ipads.se.sjtu.edu.cn/ospi/)，建议自学完成实验部分
+- 南京大学蒋炎岩老师，NJU-OS，建议可以深入理解原理：[操作系统：设计与实现](https://jyywiki.cn/OS/2024/)
 - [Linux命令大全](http://www.runoob.com/linux/linux-command-manual.html)，著名的操作系统专家[Andrew S. Tanenbaum的个人网站](http://www.cs.vu.nl/~ast/)
 
 ## 三、课程考核方式
@@ -57,6 +58,7 @@ weight: 1
 |    10    | 第6章 虚拟存储器6.4-6.6，7.1；第7章 输入输出系统7.2-7.5 |  抖动与工作集、请求分段存储管理方式、虚拟存储器实现实例；中断处理、驱动、IO软件  <br /> <font color="blue">提前预习内容：</font> <br />第5章作业，抖动的预防方法P35，分段的共享P39，IO软件的层次结构P6；IO通道P21、中断处理程序P31、设备驱动程序框架P36、设备分片P41-42       |      |
 |    11    | 第7章 输入输出系统7.6-7.8 |  IO软件、缓冲器管理、磁盘调度  <br /> <font color="blue">提前预习内容：</font> <br /> SPOOLing工作原理P52，环形缓冲区P67，最短寻道时间优先P88， 循环扫描算法P92-93      |      |
 |    12    | 习题讲解、期中测试 |  第6章、第7章作业讲解，测试  <br /> <font color="blue">提前预习内容：</font> <br /> 第6章、第7章作业；复习前面章节内容      |      |
+|    13    | 第8章 文件管理 |  文件和文件系统，文件的逻辑结构  <br /> <font color="blue">提前预习内容：</font> <br /> 文件P6，文件系统层次结构P10-11，顺序文件记录地址P18，索引顺序文件P24      |      |
 
 ## 五、学习反馈
 [如有问题，请点击这里反馈、交流和提建议](https://txc.qq.com/products/674259)
