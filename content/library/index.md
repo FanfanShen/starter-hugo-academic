@@ -73,3 +73,16 @@ tags: []
 - [How to Write a Good Paper?](https://www.cse.iitb.ac.in/~uday/soft-copies/writing-a-good-paper.pdf)
 - [How To Write A CS Paper](https://www.cs.purdue.edu/homes/ninghui/courses/591RS2_16/slides/HowToWriteACSPaper.pdf)
 - [A Guide to Writing a Successful Paper](https://www.owlnet.rice.edu/~cainproj/courses/comp482/comp482PaperGuide_F07.pdf)
+
+## 六、常用链接收录
+| [东大远程](http://www.lib.seu.edu.cn/list.php?fid=122) | 11 | 11 | 11 | 11 |   |   | 11 | 11 | 11 |
+|--------------------------------------------|----|----|----|----|---|---|----|----|----|
+|                                            |    |    |    |    |   |   |    |    |    |
+|                                            |    |    |    |    |   |   |    |    |    |
+|                                            |    |    |    |    |   |   |    |    |    |
+|                                            |    |    |    |    |   |   |    |    |    |
+|                                            |    |    |    |    |   |   |    |    |    |
+|                                            |    |    |    |    |   |   |    |    |    |
+|                                            |    |    |    |    |   |   |    |    |    |
+|                                            |    |    |    |    |   |   |    |    |    |
+|                                            |    |    |    |    |   |   |    |    |    |
