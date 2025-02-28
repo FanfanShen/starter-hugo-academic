@@ -37,7 +37,7 @@ sections:
       text: |-
         - Artificial Intelligence System
 
-        - Bigdata Audit
+        - Intelligence Audit
     design:
       columns: '1'
   - block: collection
