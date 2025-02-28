@@ -16,7 +16,7 @@ main:
   - name: Projects
     url: projects/
     weight: 13
-  - name: Sdudents
+  - name: Students
     url: students/
     weight: 14
   - name: Courses
