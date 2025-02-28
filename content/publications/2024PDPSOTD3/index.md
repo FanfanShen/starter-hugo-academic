@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System"
+title: "TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system"
 authors: 
 - Fanfan Shen
 - Bofan Yang
