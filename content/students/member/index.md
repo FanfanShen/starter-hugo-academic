@@ -17,21 +17,21 @@ tags:
 
 ## 一、指导学生情况
 ### 1.1 研究生
-- 2024年11月，惠丽洁，张文静，获得一等奖学金
-- 2024年11月，杨博帆，发表论文，TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system，CCF B, 中科院二区
-- 2024年9月，惠丽洁，发表论文，CKKS and Local Differential Privacy based Model Parameters Encryption for Personalized Federated Learning，The 6th International Conference on System Reliability and Safety Engineering
-- 2024年8月，梁琪玮，发表论文，TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System，Computer Networks，CCF B, 中科院二区
-- 2024年7月，惠丽洁，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，投稿中
-- 2024年6月，刘海鹏，获得校优秀毕业生，一等奖学金
-- 2024年4月，杨博帆，获得2024年江苏省研究生实践创新计划项目，立项，资助1.5万元
+- 2024年11月，hui lijie，zhang wenjing，获得一等奖学金
+- 2024年11月，yang bofan，发表论文，TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system，CCF B, 中科院二区
+- 2024年9月，hui lijie，发表论文，CKKS and Local Differential Privacy based Model Parameters Encryption for Personalized Federated Learning，The 6th International Conference on System Reliability and Safety Engineering
+- 2024年8月，liang qiwei，发表论文，TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System，Computer Networks，CCF B, 中科院二区
+- 2024年7月，hui lijie，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，submited
+- 2024年6月，liu haipeng，获得校优秀毕业生，一等奖学金
+- 2024年4月，yang bofan，获得2024年江苏省研究生实践创新计划项目，立项，资助1.5万元
 - 2024年4月，史林，发表论文，BMSE: Blockchain-based multi-keyword searchable encryption for electronic medical records，Computer Standards & Interfaces，中科院2区
-- 2023年11月，杨博帆，获得一等奖学金
-- 2023年7月，汤星译，发表论文，基于iFA-LSTM的恶意行为检测方法，计算机工程与科学，北大核心
-- 2023年6月，汤星译，获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
-- 2023年6月，刘海鹏，获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
-- 2023年3月，刘海鹏，发表论文，基于AHP的多特征融合图像质量评价算法，计算机仿真，北大核心
-- 2023年4月，杨博帆，基于深度强化学习的无人机矿井自主巡航研究，武汉大学学报，北大核心，获评优秀论文
-- 2022年3月，史林，2022年度江苏省研究生科研与实践创新计划项目，立项，1.5万元
+- 2023年11月，yang bofan，获得一等奖学金
+- 2023年7月，tang xingyi，发表论文，基于iFA-LSTM的恶意行为检测方法，计算机工程与科学，北大核心
+- 2023年6月，tang xingyi，获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
+- 2023年6月，liu haipeng，获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
+- 2023年3月，liu haipeng，发表论文，基于AHP的多特征融合图像质量评价算法，计算机仿真，北大核心
+- 2023年4月，yang bofan，基于深度强化学习的无人机矿井自主巡航研究，武汉大学学报，北大核心，获评优秀论文
+- 2022年3月，shi lin，2022年度江苏省研究生科研与实践创新计划项目，立项，1.5万元
 
 ---
 
