@@ -16,12 +16,16 @@ tags:
 {{% /callout %}}
 
 ## 一、指导学生情况
+- 进行中的工作
+  - Fanfan Shen，Lijie Hui，Chao Xu，Zhiquan Liu，Jun Feng，Yanxiang He，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，submited to Information Processing and Management, 2025
+  - Fanfan Shen，Wenzhang Su，Chao Xu，Zhiquan Liu，Jun Feng，Yanxiang He，FedBKD: Federated Learning with Bidirectional Knowledge Distillation for Label Distribution Skew, submited to IEEE Transactions on Neural Networks and Learning Systems, 2025
+
+
 ### 1.1 研究生
 - 2024年11月，hui lijie，zhang wenjing，获得一等奖学金
 - 2024年11月，yang bofan，发表论文，TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system，CCF B, 中科院二区
 - 2024年9月，hui lijie，发表论文，CKKS and Local Differential Privacy based Model Parameters Encryption for Personalized Federated Learning，The 6th International Conference on System Reliability and Safety Engineering
 - 2024年8月，liang qiwei，发表论文，TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System，Computer Networks，CCF B, 中科院二区
-- 2024年7月，hui lijie，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，submited
 - 2024年6月，liu haipeng，获得校优秀毕业生，一等奖学金
 - 2024年4月，yang bofan，获得2024年江苏省研究生实践创新计划项目，立项，资助1.5万元
 - 2024年4月，史林，发表论文，BMSE: Blockchain-based multi-keyword searchable encryption for electronic medical records，Computer Standards & Interfaces，中科院2区
