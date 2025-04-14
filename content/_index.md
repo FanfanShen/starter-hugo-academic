@@ -32,12 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 研究方向'
       subtitle: ''
       text: |-
-        - Artificial Intelligence System
+        - 本课题组研究包括深度学习、联邦学习、机器学习、模型压缩、隐私保护、知识蒸馏、边缘智能、机器视觉、智能审计等领域，解决图像处理、大模型中模型的效率、安全、存储等问题，在智慧交通，智慧医疗等场景中应用。
 
-        - Intelligence Audit
+        - 欢迎对科研训练感兴趣的研究生及本科生与我联系，探索可以落地应用的科学研究。
     design:
       columns: '1'
   - block: collection
