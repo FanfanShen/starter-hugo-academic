@@ -43,7 +43,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 最新动态
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -93,7 +93,7 @@ sections:
   - block: markdown
     id: contact 
     content:
-      title: 'Contact'
+      title: '联系方式'
       subtitle: ''
       text: |-
         如果您对我们的工作内容感兴趣或想加入我们，欢迎随时与我取得联系！ 具体信息如下：
