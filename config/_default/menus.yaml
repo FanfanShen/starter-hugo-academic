@@ -16,23 +16,23 @@ main:
   - name: 项目
     url: projects/
     weight: 13
-  - name: Students
+  - name: 指导学生
     url: students/
     weight: 14
-  - name: Courses
+  - name: 教学
     url: courses/
     weight: 15
-  - name: OperatingSystem
+  - name: 操作系统
     parent: Courses
     url: courses/operatingsystem
     weight: 10  
-  - name: BigDataStorage
+  - name: 大数据存储
     parent: Courses
     url: courses/bigdatastorage
     weight: 11
-  - name: Library
+  - name: 学习资源
     url: library/
     weight: 16
-  - name: Contact
+  - name: 联系方式
     url: /#contact
     weight: 17
