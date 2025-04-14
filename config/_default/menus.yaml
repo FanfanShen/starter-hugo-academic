@@ -23,11 +23,11 @@ main:
     url: courses/
     weight: 15
   - name: 操作系统
-    parent: Courses
+    parent: 教学
     url: courses/operatingsystem
     weight: 10  
   - name: 大数据存储
-    parent: Courses
+    parent: 教学
     url: courses/bigdatastorage
     weight: 11
   - name: 学习资源

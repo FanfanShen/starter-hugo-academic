@@ -40,12 +40,12 @@ profiles:
     url: https://github.com/fanfanshen 
     label: Follow me！
 
-研究方向:
+interests:
   - 人工智能系统：深度学习、联邦学习、机器学习、模型压缩、隐私保护、边缘智能、机器视觉
   - 智能审计：大数据存储/分析/应用
   - 应用场景：自动驾驶、智慧医疗、金融风控、智能物联网、无人机等
 
-工作经历:
+education:
   - area: 计算机学院副教授
     institution: 南京审计大学，2020-至今
   - area: 计算机学院讲师
