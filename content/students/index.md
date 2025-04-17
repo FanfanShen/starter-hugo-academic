@@ -1,13 +1,12 @@
 ---
 title: 学生情况
 summary: 历年指导的研究生、本科生成果情况，毕业情况等。
-date: 2024-11-08
+date: 2025-04-17
 authors:
   - admin
 tags:
   - 学生
   - 论文
-
 ---
 
 
@@ -16,37 +15,49 @@ tags:
 {{% /callout %}}
 
 ## 一、指导学生情况
-- 进行中的工作
+### 正在进行的工作
   - Fanfan Shen，Lijie Hui，Chao Xu，Zhiquan Liu，Jun Feng，Yanxiang He，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，submited to Information Processing and Management, 2025
   - Fanfan Shen，Wenzhang Su，Chao Xu，Zhiquan Liu，Jun Feng，Yanxiang He，FedBKD: Federated Learning with Bidirectional Knowledge Distillation for Label Distribution Skew, submited to IEEE Transactions on Neural Networks and Learning Systems, 2025
 
 
-### 1.1 研究生
-- 2024年11月，hui lijie，zhang wenjing，获得一等奖学金
-- 2024年11月，yang bofan，发表论文，TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system，CCF B, 中科院二区
-- 2024年9月，hui lijie，发表论文，CKKS and Local Differential Privacy based Model Parameters Encryption for Personalized Federated Learning，The 6th International Conference on System Reliability and Safety Engineering
-- 2024年8月，liang qiwei，发表论文，TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System，Computer Networks，CCF B, 中科院二区
-- 2024年6月，liu haipeng，获得校优秀毕业生，一等奖学金
-- 2024年4月，yang bofan，获得2024年江苏省研究生实践创新计划项目，立项，资助1.5万元
-- 2024年4月，史林，发表论文，BMSE: Blockchain-based multi-keyword searchable encryption for electronic medical records，Computer Standards & Interfaces，中科院2区
-- 2023年11月，yang bofan，获得一等奖学金
-- 2023年7月，tang xingyi，发表论文，基于iFA-LSTM的恶意行为检测方法，计算机工程与科学，北大核心
-- 2023年6月，tang xingyi，获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
-- 2023年6月，liu haipeng，获得2023年江苏省研究生实践创新计划项目，立项，资助1.5万元
-- 2023年3月，liu haipeng，发表论文，基于AHP的多特征融合图像质量评价算法，计算机仿真，北大核心
-- 2023年4月，yang bofan，基于深度强化学习的无人机矿井自主巡航研究，武汉大学学报，北大核心，获评优秀论文
-- 2022年3月，shi lin，2022年度江苏省研究生科研与实践创新计划项目，立项，1.5万元
+### 1.1 指导研究生情况如下
+<font size=3>
+
+| **年份** | **学生姓名** | **成果** | **备注** |
+|:-:|:-|:-|:-:|
+| 2024  | 汤星译  | 基于改进萤火虫算法和长短期记忆网络的恶意行为检测方法 |  北核 |
+| 2024  | 刘海鹏  | 基于AHP的多特征融合图像质量评价算法 |  北核 |
+| 2024  | 惠丽洁<br>张文静  | 获得校一等奖学金 |   |
+| 2024  | 杨博帆  |  TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system                           | CCF B<br>2区 |
+| 2024  | 惠丽洁  |  CKKS and Local Differential Privacy based Model Parameters Encryption for Personalized Federated Learning                        |  |
+| 2024  | 梁琦玮  |  TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System                           | CCF B<br>2区 |
+| 2024  | 刘海鹏  | 获得校优秀毕业生，一等奖学金 |   |
+| 2024  | 杨博帆  | 2024年江苏省研究生实践创新计划立项1.5万元 |   |
+| 2024  | 史林  |  BMSE: Blockchain-based multi-keyword searchable encryption for electronic medical records                           | 2区 |
+| 2023  | 杨博帆  |  一等奖学金                           |  |
+| 2023  | 汤星译  | 2023年江苏省研究生实践创新计划立项1.5万元 |   |
+| 2023  | 刘海鹏  | 2023年江苏省研究生实践创新计划立项1.5万元 |   |
+| 2023  | 杨博帆  | 基于深度强化学习的无人机矿井自主巡航研究 | 北核优秀  |
+| 2023  | 杨博帆、吴盼盼等  | 中国大学生服务外包创新创业大赛省级三等奖2项 |   |
+| 2022  | 史林  | 2022年度江苏省研究生科研与实践创新计划立项1.5万元 |   |
+
+</font>
 
 ---
 
-### 1.2 本科生
-- 2024年，指导学生发表论文，大数据技术在国家审计中的应用-基于审计效率的视角，袁媛，陶琴
-- 2024年，指导学生获得iCAN大学生创新创业大赛，省二等奖，孙铭泽、吕嘉宁、陈征、刘可儿、王巾嘉
-- 2024年，指导学生获得江苏省区块链优秀解决方案竞赛，省二等奖，黄译乐、陆雨嘉、朱士成、刘梦、邱文豪
-- 2023年，指导学生获得大学生创新创业训练计划项目，国家级，已结项，袁媛，颜敏杰，陶琴
-- 2023年，指导学生获得中国大学生服务外包创新创业大赛，省级三等奖2项
-- 2023年，指导学生获得蓝桥杯省二等奖
-- 2022年6月，本科生，夏锐禹，校优秀本科生毕业设计，目前为北京工业大学硕士生
-- 2021年7月，指导学生获得中国大学生计算机设计大赛（14届），国家级，二等奖，学生：左量、吴子怡、许傲
-- 2021年5月，指导学生获得中国大学生计算机设计大赛，江苏省级，三等奖，学生：左量、吴子怡、许傲
+### 1.2 指导本科生情况如下
 
+<font size=3>
+
+| **年份** | **学生姓名** | **成果** | **备注** |
+|:-:|:-|:-|:-:|
+| 2024  | 袁媛、陶琴  |  大数据技术在国家审计中的应用-基于审计效率的视角 | 论文 |
+| 2024  | 孙铭泽、吕嘉宁 <br> 陈征、刘可儿、王巾嘉  |  iCAN大学生创新创业大赛省二等奖 |   |
+| 2024  | 黄译乐、陆雨嘉<br>朱士成、刘梦、邱文豪  | 江苏省区块链优秀解决方案竞赛省二等奖 |   |
+| 2023  | 袁媛，颜敏杰，陶琴  | 大学生创新创业训练计划项目国家级 | 已结项  |
+| 2023  | 王淦  | 蓝桥杯省二等奖 |   |
+| 2022  | 夏锐禹  | 校优秀本科生毕业设计 |   |
+| 2021  | 左量、吴子怡、许傲  | 中国大学生计算机设计大赛国家级二等奖 |   |
+| 2021  | 左量、吴子怡、许傲  | 中国大学生计算机设计大赛江苏省级三等奖 |   |
+
+</font>
