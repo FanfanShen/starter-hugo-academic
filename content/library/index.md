@@ -21,7 +21,7 @@ tags: []
 查看资源
 {{% /callout %}}
 
-## 一、课题组知识库
+## 一、学习知识库
 
 ### 1.推荐课程
 - [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
