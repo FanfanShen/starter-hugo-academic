@@ -15,10 +15,6 @@ tags:
 {{% /callout %}}
 
 ## 一、指导学生情况
-### 正在进行的工作
-  - Fanfan Shen，Lijie Hui，Chao Xu，Zhiquan Liu，Jun Feng，Yanxiang He，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，submited to Information Processing and Management, 2025
-  - Fanfan Shen，Wenzhang Su，Chao Xu，Zhiquan Liu，Jun Feng，Yanxiang He，FedBKD: Federated Learning with Bidirectional Knowledge Distillation for Label Distribution Skew, submited to IEEE Transactions on Neural Networks and Learning Systems, 2025
-
 
 ### 1.1 指导研究生情况如下
 <font size=3>
