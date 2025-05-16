@@ -1,9 +1,9 @@
 ---
 # Page title
-title: 实验大作业
+title: 2024实验大作业
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: 实验大作业
+linktitle: 2024实验大作业
 
 # Page summary for search engines.
 summary: Blah, blah, blah...
@@ -17,23 +17,25 @@ type: docs
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 11
 ---
-
 ## 实验大作业目标
-训练系统开发应用能力和自行解决实际问题的能力。
+
+训练系统开发应用能力，自行解决实际问题的能力，以及为未来就业简历增加内容。
 
 ## 选题方向
+
 实现特定功能的系统，其中大数据获取来源，包括交通、医疗、金融、知乎、微博、新闻、电影、影评、音乐、社交网络、物联网、图像、视频等。拟定的报告内容涉及的技术背景可以从上述领域中选取，或者选取自己熟悉的领域皆可。
 
 ## 材料提交要求
+
 1.排版要求：内容宋体、小四，格式统一，排版清晰漂亮 <br>
 2.电子文档内容参考软件著作权的书写方法（[见模版](https://pan.baidu.com/s/15KwMqxcVFi8D6BpMBKNQkA?pwd=abt7)），文档命名规则：学号-姓名.docx <br>
 3.源代码文件夹命名“学号-姓名-源代码” <br>
 4.文档和源码文件夹一起打包，打包后的格式：学号-姓名.zip <br>
 5.打包的压缩包【学号-姓名.zip】发送给班长，纸质版文档第17周上课时，提交给班长。<br>
-6.分享在阿里云部署后的演示链接，链接填入这里：[实验大作业演示链接](
-https://docs.qq.com/sheet/DQmZQTG9wREFJU3Ru?scene=a896b92c8e7086dee22e8937lpY3s1&tab=BB08J2)
+6.分享在阿里云部署后的演示链接，链接填入这里：[实验大作业演示链接](https://docs.qq.com/sheet/DQmZQTG9wREFJU3Ru?scene=a896b92c8e7086dee22e8937lpY3s1&tab=BB08J2)
 
 ## 实验方案
+
 - 1.[领取阿里云云工开物，优惠卷300元](https://university.aliyun.com/?spm=5176.21213303.J_qCOwPWspKEuWcmp8qiZNQ.195.14332f3djd7wBs&scm=20140722.S_card%40%40%E6%B4%BB%E5%8A%A8%40%402997640.S_card0.ID_card%40%40%E6%B4%BB%E5%8A%A8%40%402997640-RL_%E4%BA%91%E5%B7%A5%E5%BC%80%E7%89%A9-LOC_search%7EUND%7Ecard%7EUND%7Eitem-OR_ser-V_3-P0_0)
 - 2.技术方案
   - 方案1：本地获取数据，存入MongoDB，然后导出数据，数据上传至：文件存储NAS+云服务器ECS，在云服务器上展示自己的应用程序；
@@ -55,6 +57,7 @@ https://docs.qq.com/sheet/DQmZQTG9wREFJU3Ru?scene=a896b92c8e7086dee22e8937lpY3s1
 > 特别提醒：文件存储NAS+云服务器ECS+函数计算FC，各种服务器使用完后，记得关闭!记得关闭!记得关闭! 可能按时间，或者按流量进行计算收费！！！！！！！
 
 ## 得分要点
+
 1.独立完成报告内容，严禁抄袭，如若相互抄袭，抄袭者和被抄袭者都是低分。 <br>
 2.完成如下基本功能模块，包含导入大量数据、修改数据、删除数据、查询数据等。也可增加其他功能。但至少要有4个功能模块。<br>
 3.报告内容需涵盖所学内容的80%以上。<br>
