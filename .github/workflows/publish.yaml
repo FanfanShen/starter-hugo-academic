@@ -53,13 +53,13 @@ jobs:
         hugo -F --cleanDestinationDir  # 生成静态文件
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
-
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        personal_token: ${{ secrets.HUGO_TOKEN }} # secret 中设置好私钥
-        external_repository: FanfanShen/fanfanshen.github.io  # Page 仓库
-        publish_branch: master  # Page 仓库的分支
-        publish_dir: ./public                 # 服务器上生成的静态网页源路径
-        destination_dir: ./   # 发布到fanfanshen.github.io仓库的位置路径
-        commit_message: ${{ github.event.head_commit.message }}
+# Stop deploy gitpages in 2025.5.19, Auto deploy to netlify. Close the below code.
+#    - name: Deploy to GitHub Pages
+#      uses: peaceiris/actions-gh-pages@v3
+#      with:
+#        personal_token: ${{ secrets.HUGO_TOKEN }} # secret 中设置好私钥
+#        external_repository: FanfanShen/fanfanshen.github.io  # Page 仓库
+#        publish_branch: master  # Page 仓库的分支
+#        publish_dir: ./public                 # 服务器上生成的静态网页源路径
+#        destination_dir: ./   # 发布到fanfanshen.github.io仓库的位置路径
+#        commit_message: ${{ github.event.head_commit.message }}
