@@ -9,7 +9,7 @@ tags:
   - 论文
 ---
 {{% callout note %}}
-`<u>`课题组注重构建良好的导学关系，秉持“知行合一”培养理念，努力创造奋进、健康、和谐的学习及生活环境。`</u>`课题组研究生在校期间获得多项荣誉和奖励，包括一等奖学金、专项奖学金、立项省级研究生项目等。欢迎研究生、本科生加入我们，一起学习，共同进步！欢迎发送邮件给我：ffshen@nau.edu.cn
+<u>课题组注重构建良好的导学关系，秉持“知行合一”培养理念，努力创造奋进、健康、和谐的学习及生活环境。</u>课题组研究生在校期间获得多项荣誉和奖励，包括一等奖学金、专项奖学金、立项省级研究生项目等。欢迎研究生、本科生加入我们，一起学习，共同进步！欢迎发送邮件给我：ffshen@nau.edu.cn
 {{% /callout %}}
 
 ## 一、指导学生情况
@@ -21,13 +21,13 @@ tags:
 | **年份** | **学生姓名**    | **成果**                                                                                            |  **备注**  |
 | :------------: | :-------------------- | :-------------------------------------------------------------------------------------------------------- | :---------------: |
 |      2025      | 苏文璋                | FedCKD: KD-based Classifier Refinement for Non-IID Data in Federated Learning                             |                  |
-|      2025      | 苏文璋 `<br>`李倩倩 | 2025年江苏省研究生实践创新计划立项1.5万元                                                                 |                  |
+|      2025      | 苏文璋 <br>李倩倩 | 2025年江苏省研究生实践创新计划立项1.5万元                                                                 |                  |
 |      2024      | 汤星译                | 基于改进萤火虫算法和长短期记忆网络的恶意行为检测方法                                                      |       北核       |
 |      2024      | 刘海鹏                | 基于AHP的多特征融合图像质量评价算法                                                                       |       北核       |
-|      2024      | 惠丽洁 `<br>`张文静 | 获得校一等奖学金                                                                                          |                  |
-|      2024      | 杨博帆                | TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system          | CCF B `<br>`2区 |
+|      2024      | 惠丽洁 <br>张文静 | 获得校一等奖学金                                                                                          |                  |
+|      2024      | 杨博帆                | TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system          | CCF B <br>2区 |
 |      2024      | 惠丽洁                | CKKS and Local Differential Privacy based Model Parameters Encryption for Personalized Federated Learning |                  |
-|      2024      | 梁琦玮                | TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System               | CCF B `<br>`2区 |
+|      2024      | 梁琦玮                | TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System               | CCF B <br>2区 |
 |      2024      | 刘海鹏                | 获得校优秀毕业生，一等奖学金                                                                              |                  |
 |      2024      | 杨博帆                | 2024年江苏省研究生实践创新计划立项1.5万元                                                                 |                  |
 |      2024      | 史林                  | BMSE: Blockchain-based multi-keyword searchable encryption for electronic medical records                 |        2区        |
@@ -47,8 +47,8 @@ tags:
 | **年份** | **学生姓名**                          | **成果**                                  | **备注** |
 | :------------: | :------------------------------------------ | :---------------------------------------------- | :------------: |
 |      2024      | 袁媛、陶琴                                  | 大数据技术在国家审计中的应用-基于审计效率的视角 |      论文      |
-|      2024      | 孙铭泽、吕嘉宁`<br>` 陈征、刘可儿、王巾嘉 | iCAN大学生创新创业大赛省二等奖                  |                |
-|      2024      | 黄译乐、陆雨嘉`<br>`朱士成、刘梦、邱文豪  | 江苏省区块链优秀解决方案竞赛省二等奖            |                |
+|      2024      | 孙铭泽、吕嘉宁<br> 陈征、刘可儿、王巾嘉 | iCAN大学生创新创业大赛省二等奖                  |                |
+|      2024      | 黄译乐、陆雨嘉<br>朱士成、刘梦、邱文豪  | 江苏省区块链优秀解决方案竞赛省二等奖            |                |
 |      2023      | 袁媛，颜敏杰，陶琴                          | 大学生创新创业训练计划项目国家级                |     已结项     |
 |      2023      | 王淦                                        | 蓝桥杯省二等奖                                  |                |
 |      2022      | 夏锐禹                                      | 校优秀本科生毕业设计                            |                |
