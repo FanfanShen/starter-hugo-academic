@@ -3,7 +3,7 @@
 #title: 学术搜索
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: 学术资源
+linktitle: 常用资源
 
 #url: /search/so.html  # 指向HTML文件
 

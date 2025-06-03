@@ -30,7 +30,7 @@ main:
     parent: 教学
     url: courses/bigdatastorage
     weight: 11
-  - name: 学习资源
+  - name: 学术资源
     url: library/
     weight: 16
   - name: 联系方式
