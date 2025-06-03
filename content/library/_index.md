@@ -16,4 +16,8 @@ type: docs
 weight: 2
 ---
 
-<iframe src="/search/so.html" width="100%" height="1200px"></iframe>
+## 1.文献检索搜索引擎 
+[打开文献聚合搜索引擎](/search/so.html)
+
+## 2.查看资源
+[学术资源](/library/resource/)

@@ -16,4 +16,16 @@ type: docs
 weight: 1
 ---
 
-<iframe src="/search/so.html" width="100%" height="1200px"></iframe>
+  <p>若未打开搜索页面，请点击下方按钮：</p>
+  <button id="openButton" class="btn" style="background-color: #4CAF50; color: white;">打开文献搜索页面</button>
+  
+  <script>
+    // 用户点击后打开（最可靠）
+    document.getElementById('openButton').addEventListener('click', function() {
+      window.open('/search/so.html', '_blank');
+    });
+       // 可选：页面加载后延迟打开（可能被拦截）
+    setTimeout(() => {
+        window.open('/search/so.html', '_blank');    
+    },500); // 5秒后提示
+  </script>
