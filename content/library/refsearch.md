@@ -27,5 +27,5 @@ weight: 1
        // 可选：页面加载后延迟打开（可能被拦截）
     setTimeout(() => {
         window.open('/search/so.html', '_blank');    
-    },500); // 5秒后提示
+    },1000); // 5秒后提示
   </script>
