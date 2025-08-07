@@ -1,5 +1,5 @@
 ---
-title: Our paper "DyCo-Student: Dynamic Co-evolutionary Student for Sparsely Annotated Object Detection" is accepted by 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing. Congratulations to Qianqian Li.
+title: Our paper "DyCo-Student:Dynamic Co-evolutionary Student for Sparsely Annotated Object Detection" is accepted by 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing. Congratulations to Qianqian Li.
 date: 2025-06-20
 authors:
   - admin
