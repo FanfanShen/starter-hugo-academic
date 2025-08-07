@@ -1,10 +1,11 @@
 ---
-title: Our paper "DyCo-Student: Dynamic Co-evolutionary Student for Sparsely Annotated Object Detection" is accepted by 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing. Congratulations to Qianqian Li.
-date: 2025-06-20
+title: Our paper "FedCKD:KD-based Classifier Refinement for Non-IID Data in Federated Learning" is accepted by 2025 6th Information Communication Technologies Conference. Congratulations to Wenzhang Su.
+date: 2025-05-22
 authors:
   - admin
 tags:
   - 论文
   - 学生
 ---
-Hefei, China during September 19-221, 2025. 
+Nanjing, China during August 22-24, 2025. Conference Website: [http://www.ictc.net/](http://www.ictc.net/)
+More about the [Invited Speaker](https://www.ictc.net/IS.html) are here.
