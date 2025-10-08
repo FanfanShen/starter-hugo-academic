@@ -10,7 +10,7 @@ tags:
   - 课程
   - sql
 
-weight: 1
+weight: 3
 ---
 
 ## 一、课程介绍 
@@ -19,12 +19,16 @@ weight: 1
 
 ## 二、学习方法
 ### 2.1 SQL server安装方法
-1.[SQL server 2019开发版下载链接](https://download.microsoft.com/download/d/a/2/da259851-b941-459d-989c-54a18a5d44dd/SQL2019-SSEI-Dev.exe) <br>
-2.[点击查看安装方法](https://blog.csdn.net/m0_73776435/article/details/136178551)
+- 1.[SQL server 2019开发版下载链接](https://download.microsoft.com/download/d/a/2/da259851-b941-459d-989c-54a18a5d44dd/SQL2019-SSEI-Dev.exe) <br>
+- 2.[点击查看安装方法](https://blog.csdn.net/m0_73776435/article/details/136178551)
 
 ### 2.2 在线教程
-1.[sql server简明教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html) <br>
-2.[SQL教程](https://www.runoob.com/sql/sql-tutorial.html)
+- 1.[sql server简明教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html) <br>
+- 2.[SQL教程](https://www.runoob.com/sql/sql-tutorial.html)
+
+### 2.3 在线练习题目
+- [牛客网在线练习，可在线运行SQL](https://www.nowcoder.com/exam/oj?page=1&tab=SQL%E7%AF%87&topicId=199)
+
 
 ## 三、如何科学的提问？
 3.1 提问方法
