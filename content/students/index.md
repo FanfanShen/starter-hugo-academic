@@ -20,6 +20,7 @@ tags:
 
 | **年份** | **学生姓名**    | **成果**                                                                                            |  **备注**  |
 | :------------: | :-------------------- | :-------------------------------------------------------------------------------------------------------- | :---------------: |
+|      2025      | 刘梓昂                | FedPPB：基于PSO和Paillier加密算法的区块链联邦学习方法                    |      CCF-T1            |
 |      2025      | 李倩倩                | DyCo-Student: Dynamic Co-evolutionary Student for Sparsely Annotated Object Detection                    |                  |
 |      2025      | 杨博帆                | 获得2025届优秀毕业研究生                             |                  |
 |      2025      | 苏文璋                | FedCKD: KD-based Classifier Refinement for Non-IID Data in Federated Learning                             |                  |
