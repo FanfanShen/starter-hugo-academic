@@ -1,4 +1,5 @@
 ---
+<<<<<<<< HEAD:content/courses/python/index.md
 title: Learn Example
 summary: Easily learn Python in 10 minutes!
 date: 2010-10-24
@@ -6,15 +7,52 @@ type: docs
 math: false
 tags:
   - Python
+========
+title: 👩🏼‍🏫 Teach academic courses
+summary: Embed videos, podcasts, code, LaTeX math, and even test students!
+date: 2023-10-24
+math: true
+authors:
+  - me
+tags:
+  - Hugo
+  - HugoBlox Kit
+  - Markdown
+>>>>>>>> upstream/main:content/blog/teach-courses/index.md
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
+cover:
+  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
+  position:
+    x: 50
+    y: 40
+  overlay:
+    enabled: true
+    type: "gradient"
+    opacity: 0.4
+    gradient: "bottom"
+  fade:
+    enabled: true
+    height: "80px"
+  icon:
+    name: "✨"
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+[HugoBlox Kit](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+
+## Citation
+
+Here's an example of citing a publication using the cite shortcode:
+
+{{< cite page="/publications/preprint" view="citation" >}}
+
+You can also use the default view by omitting the view parameter:
+
+{{< cite page="/publications/conference-paper" >}}
 
 ## Video
 
@@ -28,7 +66,12 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 **Bilibili**:
 
+<<<<<<<< HEAD:content/courses/python/index.md
     {{</* bilibili id="BV1WV4y1r7DF" */>}}
+========
+    {{</* bilibili BV1WV4y1r7DF */>}}
+
+>>>>>>>> upstream/main:content/blog/teach-courses/index.md
 
 **Video file**
 
@@ -62,7 +105,11 @@ renders as
 
 ## Math
 
+<<<<<<<< HEAD:content/courses/python/index.md
 Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
+========
+HugoBlox Kit supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
+>>>>>>>> upstream/main:content/blog/teach-courses/index.md
 
 To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
 
@@ -110,7 +157,7 @@ $$
 
 ## Code
 
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+HugoBlox Kit utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
 
 
     ```python

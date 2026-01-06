@@ -1,35 +1,42 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: ''
+summary: ''
 date: 2022-10-24
 type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: '6rem'
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
+      username: me
+      text: ''
       # Show a call-to-action button under your biography? (optional)
-      # button:
+      #button:
       #  text: Download CV
-      #  url: /             # uploads/resume.pdf
+      #  url: uploads/resume.pdf
+      headings:
+        about: ''
+        education: ''
+        interests: ''
     design:
-      css_class: dark
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        gradient_mesh:
+          enable: true
+
+      # Name heading sizing to accommodate long or short names
+      name:
+        size: md # Options: xs, sm, md, lg (default), xl
+
+      # Avatar customization
+      avatar:
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '📚 研究方向'
@@ -52,20 +59,20 @@ sections:
       count: 2
       # Filter on criteria
       filters:
-        author: ""
-        category: ""
-        tag: ""
+        author: ''
+        category: ''
+        tag: ''
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        publication_type: ""
+        publication_type: ''
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: card
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
