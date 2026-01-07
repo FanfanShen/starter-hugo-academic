@@ -71,11 +71,8 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      view: article-grid
+      columns: 2
   - block: collection
     id: publications
     content:
@@ -87,6 +84,19 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: '📚 学术服务'
+      subtitle: ''
+      text: |-
+        - ACM International Conference on Multimedia (CCF A) 审稿服务
+        - International Conference on Machine Learning (CCF A) 审稿服务
+        - Computer Networks (CCF B)，优秀审稿人
+        - Information Processing and Management (CCF B)审稿服务
+        - The journal of supercomputing (CCF C)审稿服务
+        - 国际标准化组织ISO/TC295“审计数据采集标准”中国专家组成员     
+    design:
+      columns: '1'
 #  - block: collection
 #    id: students
 #    content:
