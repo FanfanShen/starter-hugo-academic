@@ -1,9 +1,7 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "TPE-BFL:Training Parameter Encryption scheme for Blockchain based Federated Learning System"
 authors: 
-- Fanfan Shen
+- me
 - Qiwei Liang
 - Lijie Hui
 - Bofan Yang
@@ -17,21 +15,22 @@ doi: ""
 publishDate: 2024-10-01T18:00:43+08:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Computer Networks,Volume 252,2024,110691"
 publication_short: ""
 
-abstract: ""
+abstract: Blockchain technology plays a pivotal role in addressing the single point of failure issues in federated learning systems, due to the immutable nature and decentralized architecture. However, traditional blockchain-based federated learning systems still face privacy and security challenges when transmitting training model parameters to individual nodes. Malicious nodes within the system can exploit this process to steal parameters and extract sensitive information, leading to data leakage. To address this problem, we propose a Training Parameter Encryption scheme for Blockchain based Federated Learning system (TPE-BFL). In TPE-BFL, the training parameters of the system model are encrypted using the paillier algorithm with the property of addition homomorphism. This encryption mechanism is integrated into the workflows of three distinct roles within the system:workers, validators, and miners. (1) Workers utilize the paillier encryption algorithm to encrypt training parameters for local training models. (2) Validators decrypt received encrypted training parameters using private keys to verify their validity. (3) Miners receive cryptographic training parameters from validators, validate them, and generate blocks for subsequent global model updates. By implementing the TPE-BFL mechanism, we not only preserve the immutability and decentralization advantages of blockchain technology but also significantly enhance the privacy protection capabilities during data transmission in federated learning systems. In order to verify the security of TPE-BFL, we leverage the semantic security inherent in the Paillier encryption algorithm to theoretically substantiate the security of our system. In addition, we conducted a large number of experiments on real-world data to prove the validity of our proposed TPE-BFL, and when 15% of malicious devices are present, TPE-BFL achieve 92% model accuracy, a 5% improvement over the blockchain-based decentralized FL framework (VBFL).
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: 
+- 论文
+- federated learning
 categories: []
 featured: false
 
@@ -43,14 +42,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1389128624005231
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+links:
+  - type: pdf
+    url: https://www.sciencedirect.com/science/article/pii/S1389128624005231
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

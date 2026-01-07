@@ -3,9 +3,9 @@ slug: me
 is_owner: true
 name:
   display: 沈凡凡
-  given: 凡凡
-  family: 沈
-  alternate: ''  # Example: 王伟
+  given: fanfan
+  family: shen
+  alternate: 'Fanfan Shen'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: 
 postnominals:

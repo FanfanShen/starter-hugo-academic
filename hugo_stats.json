@@ -563,6 +563,7 @@
       "no-prose",
       "no-underline",
       "not-prose",
+      "object-cover",
       "object-fill",
       "opacity-0",
       "opacity-100",

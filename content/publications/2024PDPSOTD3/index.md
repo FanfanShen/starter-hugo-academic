@@ -1,9 +1,7 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "TD3-based trajectory optimization for energy consumption minimization in UAV-assisted MEC system"
 authors: 
-- Fanfan Shen
+- me
 - Bofan Yang
 - Jun Zhang
 - Chao Xu
@@ -16,21 +14,22 @@ doi: ""
 publishDate: 2024-12-01T18:00:43+08:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Computer Networks,Volume 255,2024,110882"
 publication_short: ""
 
-abstract: ""
+abstract: Unmanned Aerial Vehicle (UAV) assisted Mobile Edge Computing (MEC) systems provide substantial benefits for task offloading and communication services, especially in situations where traditional communication infrastructure is unavailable. Current research emphasizes maintaining communication quality while minimizing total energy consumption and optimizing UAV flight trajectories. However, several issues remain:First, the energy consumption objective function lacks comprehensiveness, neglecting the impact of UAV flight energy consumption; second, an effective Deep Reinforcement Learning (DRL) algorithm has not been employed to address the non-convexity of the objective function; third, there is insufficient discussion regarding the practical significance of the proposed approach. To address these issues, this paper formulates an objective function aimed at minimizing MEC energy consumption by considering task offloading decisions, communication delays, computational energy consumption, and UAV flight energy consumption. We propose a Population Diversity-based Particle Swarm Optimization-Double Delay Deep Deterministic Policy Gradient (PDPSO-TD3) algorithm to find the optimal solution, enhance UAV flight trajectories through optimized offloading decisions, ensure efficient communication, and minimize the total energy consumption of the MEC system. Furthermore, we discuss the practical applicability of PDPSO-TD3 in detail and present the proposed scheme. Experimental results demonstrate that compared to the Deep Deterministic Policy Gradient (DDPG) algorithm, for transmission delay, MEC energy consumption, UAV flight energy consumption, and User Equipments (UEs) access rate metrics. The proposed PDPSO-TD3 algorithm can improvement the performance by about 14.3%, 10.1%, 6.1%, and 3.3%, respectively.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: 
+- 论文
+- Deep Reinforcement Learning
 categories: []
 featured: false
 
@@ -42,14 +41,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S138912862400714X
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+links:
+  - type: pdf
+    url: https://www.sciencedirect.com/science/article/abs/pii/S138912862400714X
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
