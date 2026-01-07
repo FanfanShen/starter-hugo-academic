@@ -26,7 +26,7 @@ links:
     url: /#contact
     label: 给我发邮件吧！
   - icon: brands/weixin
-    url: authors/admin/weixin.jpg
+    url: media/authors/weixin.jpg
     label: 加我微信吧！
   - icon: academicons/ads
     url: https://blog.csdn.net/fandroid?type=blog
