@@ -107,17 +107,21 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 1
-  - block: markdown
-    id: contact 
+  - block: contact-info
+    id: contact
     content:
-      title: '联系方式'
-      subtitle: ''
+      title: 联系方式
+      subtitle: "Let's build something amazing together"
       text: |-
-        如果您对我们的工作内容感兴趣或想加入我们，欢迎随时与我取得联系！ 具体信息如下：
-        - **邮箱：** ffshen AT nau DOT edu DOT cn （将AT替换为“@”，将DOT替换为点“.”）
-        - **微信号：** WaldenLakewood
-        - **地址：** 江苏省南京市浦口区南京审计大学致明楼222办公室
-        - **工作时间：** 周一至周五 09:00 至 17:00
+        如果您对我们的工作内容感兴趣或想加入我们，欢迎随时与我取得联系！办公地点：江苏省南京市浦口区南京审计大学致明楼222办公室，工作时间：周一到周五 09:00 至 17:00。
+      email: ffshen@nau.edu.cn
+      autolink: true
     design:
       columns: '1'
+      background:
+        color:
+          light: "#ffffff"
+          dark: "#0d0d12"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
 ---
