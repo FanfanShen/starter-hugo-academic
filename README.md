@@ -1,5 +1,6 @@
 # [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) is upgraded to [hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv)
 - Our theme is also upgraded to hugo-theme-academic-cv on 2026.1.6 at commit e7cc65cd7af5f23e83b16c1575c87abffeee3e7d
+- merge 2026.1.15 to the latest version
 
 # Wowchemy academic theme [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)  is upgraded to [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)
 - Our theme is also upgraded to theme-academic-cv on 2024.10.13 at commit 739ece0b54dbe86962aef0da5a03cab1f580b2a1
