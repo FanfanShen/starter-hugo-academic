@@ -7,3 +7,5 @@ tags:
   - 论文
   - 学生
 ---
+
+论文链接：[FedDPKD:Federated learning with dual-phase knowledge distillation for label distribution skew](https://doi.org/10.1016/j.ipm.2026.104657)
