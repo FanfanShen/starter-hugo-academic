@@ -48,6 +48,8 @@ jobs:
       with:
         token: ${{ secrets.HUGO_TOKEN }}
         enablement: true
+    - name: Install dependencies
+      run: npm install -D tailwindcss
     - name: Build with hugo
       run: |
         hugo -F --cleanDestinationDir  # 生成静态文件
