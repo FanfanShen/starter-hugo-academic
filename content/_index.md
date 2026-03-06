@@ -89,8 +89,9 @@ sections:
       title: '📚 学术服务'
       subtitle: ''
       text: |-
-        - ACM International Conference on Multimedia (CCF A) 审稿服务
-        - International Conference on Machine Learning (CCF A) 审稿服务
+        - IEEE Transactions on Neural Networks and Learning Systems，审稿服务
+        - ACM International Conference on Multimedia (CCF A)，审稿服务
+        - International Conference on Machine Learning (CCF A)，审稿服务
         - Computer Networks (CCF B)，优秀审稿人
         - Information Processing and Management (CCF B)审稿服务
         - The journal of supercomputing (CCF C)审稿服务
