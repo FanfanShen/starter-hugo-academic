@@ -1,4 +1,4 @@
 ---
 title: Blog
-view: compact
+view: date-list
 ---
