@@ -10,7 +10,7 @@ linktitle: 文献搜索
 date: 2025-06-03
 
 # Book page type (do not modify).
-type: docs
+type: blog
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 2
