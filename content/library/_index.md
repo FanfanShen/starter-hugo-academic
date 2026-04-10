@@ -20,4 +20,4 @@ weight: 2
 [打开文献聚合搜索引擎](/search/so.html)
 
 ## 2.查看资源
-[学术资源](/library/resource/)
+[常用链接](/library/resource/)
