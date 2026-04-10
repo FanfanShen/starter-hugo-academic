@@ -96,7 +96,8 @@ sections:
       # 单列布局，完全匹配截图样式
       columns: "1"
       # 可选：调整间距，更贴近截图的紧凑感
-      spacing: "small"
+      spacing:
+        padding: "small"
   - block: collection
     id: publications
     content:
