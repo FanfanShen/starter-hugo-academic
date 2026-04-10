@@ -74,31 +74,6 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-    id: news
-    content:
-      title: Latest from our changelog
-      # 筛选你要展示的内容（比如 news/changelog 文件夹）
-      filters:
-        folders:
-          - news
-        # 按时间倒序，最新的在最上面
-        sort_by: "date"
-        sort_ascending: false
-      # 关键：用 timeline 视图实现时间线样式
-      view: timeline
-      # 控制显示条数
-      count: 4
-      # 底部「查看全部」链接
-      link:
-        text: "View changelog →"
-        url: "/news/"
-    design:
-      # 单列布局，完全匹配截图样式
-      columns: "1"
-      # 可选：调整间距，更贴近截图的紧凑感
-      spacing:
-        padding: "small"
-  - block: collection
     id: publications
     content:
       title: Recent Publications
