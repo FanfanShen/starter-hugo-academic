@@ -71,8 +71,9 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      view: article-list
-      columns: 2
+      view: date-list
+      date_format: "2006-01-02"
+      # columns: 2
   - block: collection
     id: publications
     content:
