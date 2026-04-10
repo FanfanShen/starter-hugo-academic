@@ -74,6 +74,20 @@ sections:
       view: "card"
       columns: 2
   - block: collection
+    id: news
+    content:
+      title: 最新动态
+      filters:
+        folders:
+          - news
+    # 关键：一行一行 + 显示时间
+      view: date-list
+    # 可选：控制显示数量
+      count: 10
+    design:
+    # 可选：标题居左
+      columns: 1
+  - block: collection
     id: publications
     content:
       title: Recent Publications
