@@ -71,22 +71,8 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      view: "card"
+      view: article-grid
       columns: 2
-  - block: collection
-    id: news
-    content:
-      title: 最新动态
-      filters:
-        folders:
-          - news
-    # 关键：一行一行 + 显示时间
-      view: date-list
-    # 可选：控制显示数量
-      count: 10
-    design:
-    # 可选：标题居左
-      columns: 1
   - block: collection
     id: publications
     content:
