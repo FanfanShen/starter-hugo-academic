@@ -1,7 +1,7 @@
 ---
 title: 计算机操作系统
 summary: 操作系统是计算机系统的指挥中心，它既是系统中各种资源的管理者，又是服务的提供者。操作系统在计算机系统中所处的地位和作用决定本课程在计算机学科课程中特殊重要的核心位置。
-date: 2024-12-17
+date: 2026-08-31
 authors:
   - admin
 type: docs
@@ -19,7 +19,7 @@ weight: 1
 
 ## 二、课程资源
 
-- updating：[2025年操作系统课件PPT](https://pan.baidu.com/s/1WldjfNtXfZgH231bnBJlBA?pwd=u6br)，[配套练习题库](https://www.doc88.com/p-73247196945596.html)
+- updating：[配套练习题库](https://www.doc88.com/p-73247196945596.html)
 - 教材：计算机操作系统（慕课版），汤小丹 王红玲 姜华 汤子瀛编著，人民邮电出版社
 - 本书官方视频资源：[1.官方全书慕课视频(新书的封底有刮刮卡激活码)](https://www.rymooc.com/Course/show/714)，[2.B站官方教学视频王红玲主讲](https://www.bilibili.com/video/BV17h411B7yW/)
 - MIT神级OS课程，强烈推荐学习：[operating systems 6.828](https://pdos.csail.mit.edu/6.828/2023/index.html) 
@@ -29,7 +29,7 @@ weight: 1
 
 ## 三、课程考核方式
 
-- 课堂表现和作业：20%
+- 考勤、课堂表现和作业分别为：10%
 
 - 期中测试：20%
 
@@ -37,12 +37,10 @@ weight: 1
 
 ## 四、教学计划
 - 上课信息：
-  - 1-17周，周一1-2节，8:30-10:00，竞秀南楼S103
-  - 1-17周双周，周二1-2节，8:30-10:00，竞秀南楼S101
+  - 1-17周，周二3-4节，10:20-11:50，竞秀北楼n405
+  - 1-16周双周，周三3-4节，10:20-11:50，竞秀北楼n406
 
-历史课件：[2023年秋课件PPT](https://pan.baidu.com/s/1qzxmW44K8OcAsm8T1Fjbrg?pwd=cvix)，[2024年秋课件PPT](https://pan.baidu.com/s/1NQcS8-zCk3bhDMN4lgdDiw?pwd=p21f)
-
-[2025年秋课件PPT](https://pan.baidu.com/s/1chOkBrFKWTRg6STn7YVHMQ?pwd=x842), 授课形式：讲授、翻转课堂，2025年秋授课信息如下：
+最新课件：[2026年操作系统课件PPT](https://p.nau.edu.cn/#s/EENnCOnm), 授课形式：讲授、翻转课堂，2026年秋授课信息如下：
 
 | Lesson Number |                             章节                             |                             内容                             |            备注             |
 | :-----: | :----------------------------------------------------------: | :---------------------------------------------------------- | :------------------------- |
