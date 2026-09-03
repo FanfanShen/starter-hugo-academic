@@ -28,21 +28,21 @@ main:
     identifier: 6252ddc8
     url: courses/
     weight: 60
-  - name: 智能审计
-    identifier: 7159b954
-    url: /courses/ai-audit
-    weight: 61
-    parent: 6252ddc8
   - name: 大数据存储
     identifier: e417f315
     url: /courses/bigdatastorage
-    weight: 62
+    weight: 61
     parent: 6252ddc8
   - name: 操作系统
     identifier: 10dd7978
     url: /courses/operatingsystem
-    weight: 63
+    weight: 62
     parent: 6252ddc8
+  - name: 智能审计
+    identifier: 7159b954
+    url: /courses/ai-audit
+    weight: 63
+    parent: 6252ddc8    
   - name: 搜索
     identifier: df9e6afc
     url: library/
