@@ -1,38 +1,53 @@
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-  #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
 
 main:
   - name: 主页
+    identifier: 7fe3f2c3
     url: /
     weight: 10
   - name: 新闻
+    identifier: 8b8adace
     url: /#news
-    weight: 11
+    weight: 20
   - name: 论文
+    identifier: 1457d86a
     url: /#publications
-    weight: 12
+    weight: 30
   - name: 项目
+    identifier: bd14aecb
     url: projects/
-    weight: 13
+    weight: 40
   - name: 指导学生
+    identifier: 082d2e2a
     url: students/
-    weight: 14
+    weight: 50
   - name: 教学
+    identifier: 6252ddc8
     url: courses/
-    weight: 15
-  - name: 操作系统
-    parent: 教学
-    url: courses/operatingsystem
-    weight: 10  
+    weight: 60
+  - name: 智能审计
+    identifier: 7159b954
+    url: /courses/ai-audit
+    weight: 61
+    parent: 6252ddc8
   - name: 大数据存储
-    parent: 教学
-    url: courses/bigdatastorage
-    weight: 11
+    identifier: e417f315
+    url: /courses/bigdatastorage
+    weight: 62
+    parent: 6252ddc8
+  - name: 操作系统
+    identifier: 10dd7978
+    url: /courses/operatingsystem
+    weight: 63
+    parent: 6252ddc8
   - name: 搜索
+    identifier: df9e6afc
     url: library/
-    weight: 16
+    weight: 70
   - name: 联系方式
+    identifier: 7bb31687
     url: /#contact
-    weight: 17
+    weight: 80
