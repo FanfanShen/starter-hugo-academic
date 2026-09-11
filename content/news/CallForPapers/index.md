@@ -11,6 +11,8 @@ tags:
 
 投稿专属链接：[https://ijs.tspsubmission.com/page/index.html#/submission?id=1&sectionid=2939](https://ijs.tspsubmission.com/page/index.html#/submission?id=1&sectionid=2939)
 
+{{< figure src="callfor.png" alt="Themed Collection海报" caption="图：专题征稿海报" lightbox="true" >}}
+
 
 专题2：AI-Enabled Intelligent Embedded Architectures for Edge and Real-Time Systems，
 
