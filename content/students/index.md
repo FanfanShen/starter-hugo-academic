@@ -11,7 +11,7 @@ tags:
 > [!TIP]
 > <u>1.课题组注重构建良好的导学关系，秉持“知行合一”的培养理念，创造奋进、健康、和谐的学习及生活环境，倡导运动与学习相结合，羽毛球、聚餐、游玩已成为课题组的标志性项目。</u>
  <br><br>
-2.在轻松和谐的学习环境下，课题组历届研究生都有顶级刊物、SCI或北大核心论文发表，在校期间多人获得一等奖学金、专项奖学金、立项省级科研项目、优秀干部等，收获满满，轻松毕业。
+2.在轻松和谐的学习环境下，课题组历届研究生都有顶级刊物、SCI或北大核心论文发表，在校期间多人获得国家奖学金2万、一等奖学金、专项奖学金、立项省级科研项目、优秀干部等，收获满满，轻松毕业。
  <br><br>
 3.历届培养的学生，<b>发现和解决问题的能力得到极大提升!</b>我也有幸见证了学生的成长，毕业生都有非常好的就业去向，包括公务员、教师、国企、事业单位、博士等。
   <br><br>
@@ -45,7 +45,11 @@ tags:
 
 | **年份** | **学生姓名**    | **成果**                                                                                            |  **备注**  |
 | :------------: | :-------------------- | :-------------------------------------------------------------------------------------------------------- | :---------------: |
+|      2026      | 董昊宇                | 获得国家奖学金2万                    |                  |
+|      2026      | 刘梓昂                | 获得国家奖学金2万                    |                  |
+|      2026      | 刘梓昂                | FedCHO: Closed-Loop Hierarchical Orchestration for Blockchain-based Byzantine-Robust Federated Learning                    |      CCF B <br> 1区            |
 |      2026      | 董昊宇                | HeliFed:A Dual-Helix Framework for Noise-Robust Federated Learning                    |      CCF B <br> 1区            |
+|      2026      | 董昊宇 <br>刘梓昂<br>李昀熹 | 2026年江苏省研究生实践创新计划分别立项0.7万元                                                                 |                  |
 |      2026      | 苏文璋                | FedDPKD: Federated learning with dual-phase knowledge distillation for label distribution skew                    |      CCF B <br> 1区            |
 |      2026      | 刘梓昂                | FedPPB：基于PSO和Paillier加密算法的区块链联邦学习方法                    |      CCF-T1            |
 |      2025      | 李倩倩                | DyCo-Student: Dynamic Co-evolutionary Student for Sparsely Annotated Object Detection                    |                  |
